@@ -1,0 +1,26 @@
+{
+  "name": "proyecto-node",
+  "version": "1.0.0",
+  "description": "Proyecto de node para open  bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "saludar":"node Hola npm run como estas?",
+    "openBootcamp":"node Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aldo90orozco/ejerciciosOpenBootcamp.git"
+  },
+  "keywords": [
+    "proyecto",
+    "open-bootcamp"
+  ],
+  "author": "Aldo Orozco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aldo90orozco/ejerciciosOpenBootcamp/issues"
+  },
+  "homepage": "https://github.com/aldo90orozco/ejerciciosOpenBootcamp#readme"
+}
